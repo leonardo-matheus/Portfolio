@@ -11,7 +11,7 @@
 <center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/leonardo-matheus/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/leonardo-matheus/Portfolio?color=red&logo=github&style=for-the-badge)
@@ -30,7 +30,7 @@ My personal  <a href="https://soumyajit.vercel.app/" target="_blank">portfolio</
 This project was built using these technologies.
 
 - HTML5
-- TypeScript
+- JavaScript
 - CSS3
 - VsCode
 
