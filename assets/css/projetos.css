@@ -112,7 +112,33 @@ button:hover {
 
 }
 
+.projeto {
 
+    height: 195px;
+
+    width: 310px;
+
+    background-image: url("../img/proj1.png");
+
+    background-position: center;
+
+    background-size: cover;
+
+    border-radius: 20px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    cursor: pointer;
+
+    overflow: hidden;
+
+    transition: ease-in-out 0.3s;
+
+}
 
 .pro div p {
 
