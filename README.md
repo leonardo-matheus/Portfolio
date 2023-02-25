@@ -25,7 +25,7 @@
 
 ## Built With
 
-My personal  <a href="https://soumyajit.vercel.app/" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal  <a href="https://leonardo.d3f4lt.com.br/" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
